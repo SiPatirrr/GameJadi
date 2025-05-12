@@ -1,2 +1,4 @@
-Ini adalah game buatan saya sendiri
-saya membuat game ini menggunakan unity
+Deskripsi Game
+Judul Game: Petualangan Si Merah
+Genre: Platformer 2D / Petualangan
+Platform: WebGL (dapat dimainkan langsung melalui browser)
