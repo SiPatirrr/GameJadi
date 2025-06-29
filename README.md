@@ -43,7 +43,7 @@ Terima kasih sudah mencoba game ini — semoga menyenangkan!
 
 ## 🔗 Link Game
 
-> 🎮 [Mainkan di browser via WebGL](https://sipatirrr.github.io/GameJadi/)
+> 🎮 [Mainkan di browser via WebGL](https://sipatirrr.github.io/PetualanganSiMerah/)
 
 ---
 
